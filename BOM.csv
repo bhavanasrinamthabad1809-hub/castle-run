@@ -1,12 +1,10 @@
-```csv
 Item,Qty,Supplier,Cost/item,Total Cost,link
 3D printing filament,1,Robu.in,8.21,8.21,
 PLA filament,1,Robu.in,8.21,8.21,
-Small DC motor,1,Flipkart,,, 
+Small DC motor,1,Flipkart,,,
 Battery and battery holder,1,Flipkart,,,
 ON/OFF switch,1,Flipkart,,,
 PWM DC motor speed controller,1,Robu.in,0.83,0.83,
 Connecting wires,1,Flipkart,,,
 Glue gun,1,Flipkart,2.20,2.20,
 Estimated total shipping,1,,,0.00,
-```
