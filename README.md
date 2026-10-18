@@ -43,20 +43,15 @@ instead of slide started with spring lol
 
 <img width="852" height="583" alt="Screenshot 2026-10-19 013711" src="https://github.com/user-attachments/assets/c587573d-1473-4c19-bf54-932d119ea274" />
 
+finally the slide
 
 
  
 <img width="1920" height="1080" alt="Screenshot 2026-10-18 181000" src="https://github.com/user-attachments/assets/b3e65047-ec4e-4597-aa28-9bad4a8b26b8" />
 
-
-
+assembling
 
 <img width="767" height="522" alt="Screenshot 2026-10-19 013604" src="https://github.com/user-attachments/assets/89d9fd6f-528d-4ad4-924a-a342185f291d" />
-
-
-
-
-
-<img width="1920" height="1080" alt="Screenshot 2026-10-18 144014" src="https://github.com/user-attachments/assets/d178f8b5-601e-4e2e-b437-6c7fb69b62f1" />
+after assembling i know its not looking best because it is in 2d yah and still the cycle is not added you can see the movement of marbles . it will be best seeing how marbles gonna move.
 
 
