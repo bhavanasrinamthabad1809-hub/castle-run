@@ -1,10 +1,7 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-3D printing filament,1,Robu.in,8.21,8.21,
-PLA filament,1,Robu.in,8.21,8.21,
-Small DC motor,1,Flipkart,,,
-Battery and battery holder,1,Flipkart,,,
-ON/OFF switch,1,Flipkart,,,
-PWM DC motor speed controller,1,Robu.in,0.83,0.83,
-Connecting wires,1,Flipkart,,,
-Glue gun,1,Flipkart,2.20,2.20,
-Estimated total shipping,1,,,0.00,
+3D printing filament,1,Robu.in,8.21,8.21,https://robu.in/product/numakers-pla-filament-light-blue-1-75-mm-1-kg/
+PLA filament,1,Robu.in,8.21,8.21,https://robu.in/product/numakers-pla-filament-apricot-skin-1-75-mm-1-kg/
+Battery and switch,1,Flipkart,,,2.21,https://dl.flipkart.com/s/AjrSNKuuuN
+PWM DC motor speed controller,1,Robu.in,0.83,0.83,https://robu.in/product/3v-6v-12v-24v-35v-pwm-dc-motor-speed-regulator/
+Glue gun,1,Flipkart,2.20,2.20,https://dl.flipkart.com/s/AjleO!uuuN
+Estimated total shipping,1,,,3.00
