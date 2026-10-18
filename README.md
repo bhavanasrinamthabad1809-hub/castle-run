@@ -35,7 +35,14 @@ Honestly, getting everything aligned in CAD has been a learning experience, but 
 
 
 ##  Project progress
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-18 144014" src="https://github.com/user-attachments/assets/d178f8b5-601e-4e2e-b437-6c7fb69b62f1" />
+instead of slide started with spring lol
+
+
 <img width="852" height="583" alt="Screenshot 2026-10-19 013711" src="https://github.com/user-attachments/assets/c587573d-1473-4c19-bf54-932d119ea274" />
+
 
 
  
