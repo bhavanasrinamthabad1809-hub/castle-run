@@ -59,11 +59,11 @@ after assembling i know its not looking best because it is in 2d yah and still t
 
 | PART                          | QTY |  UNIT |      TOTAL | SOURCE   |
 | ----------------------------- | --: | ----: | ---------: | -------- |
-| PLA filament — light blue     |   1 | $8.21 |      $8.21 |  [link]_(https://robu.in/product/numakers-pla-filament-light-blue-1-75-mm-1-kg/) |
-| PLA filament — apricot skin   |   1 | $8.21 |      $8.21 |  [link]_(https://robu.in/product/numakers-pla-filament-apricot-skin-1-75-mm-1-kg/)|
-| PWM DC motor speed controller |   1 | $0.83 |      $0.83 | [link]_(https://robu.in/product/3v-6v-12v-24v-35v-pwm-dc-motor-speed-regulator/)|
-| Glue gun                      |   1 | $2.20 |      $2.20 | [link]_(https://dl.flipkart.com/s/AjleO!uuuN)|
-| Battery and switch            |   1 | $2.21 |      $2.21 | [link]_(https://dl.flipkart.com/s/AjrSNKuuuN)|
+| PLA filament — light blue     |   1 | $8.21 |      $8.21 | (https://robu.in/product/numakers-pla-filament-light-blue-1-75-mm-1-kg/) |
+| PLA filament — apricot skin   |   1 | $8.21 |      $8.21 |  (https://robu.in/product/numakers-pla-filament-apricot-skin-1-75-mm-1-kg/)|
+| PWM DC motor speed controller |   1 | $0.83 |      $0.83 |(https://robu.in/product/3v-6v-12v-24v-35v-pwm-dc-motor-speed-regulator/)|
+| Glue gun                      |   1 | $2.20 |      $2.20 | (https://dl.flipkart.com/s/AjleO!uuuN)|
+| Battery and switch            |   1 | $2.21 |      $2.21 | (https://dl.flipkart.com/s/AjrSNKuuuN)|
 | Tax & shipping                |   — |     — |      $3.00 |         |
 | **TOTAL**                     |     |       | **$24.66** |         |
 
