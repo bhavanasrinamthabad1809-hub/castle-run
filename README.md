@@ -28,8 +28,7 @@ The goal is to make the marble keep moving automatically without having to pick 
 
 ## What I've been working on
 
-I've been designing the wheels, cylinder, panels, ramps and slides in Onshape. I'm also working on putting all the parts together in an assembly so I can see how the machine should look before building it physically. MOST DIFFICULT PART FOR ME AND IN THE 
-END I SAW MY SILLY MISTAKE I WAS LIKE SHIT .
+I've been designing the wheels, cylinder, panels, ramps and slides in Onshape. I'm also working on putting all the parts together in an assembly so I can see how the machine should look before building it physically. MOST DIFFICULT PART FOR ME got 3 hours from here lol.
 
 Honestly, getting everything aligned in CAD has been a learning experience, but that's part of building something new!
 
@@ -60,13 +59,13 @@ after assembling i know its not looking best because it is in 2d yah and still t
 
 | PART                          | QTY |  UNIT |      TOTAL | SOURCE   |
 | ----------------------------- | --: | ----: | ---------: | -------- |
-| PLA filament — light blue     |   1 | $8.21 |      $8.21 |  [link]https://robu.in/product/numakers-pla-filament-light-blue-1-75-mm-1-kg/ |
-| PLA filament — apricot skin   |   1 | $8.21 |      $8.21 |  [link]https://robu.in/product/numakers-pla-filament-apricot-skin-1-75-mm-1-kg/|
-| PWM DC motor speed controller |   1 | $0.83 |      $0.83 | [link]|
-| Glue gun                      |   1 | $2.20 |      $2.20 | [link] |
-| Battery and switch            |   1 | $2.21 |      $2.21 | [link]  |
-| Tax & shipping                |   — |     — |      $3.00 | [link]        |
-| **TOTAL**                     |     |       | **$24.66** |  [link]    |
+| PLA filament — light blue     |   1 | $8.21 |      $8.21 |  [link]-(https://robu.in/product/numakers-pla-filament-light-blue-1-75-mm-1-kg/) |
+| PLA filament — apricot skin   |   1 | $8.21 |      $8.21 |  [link]-(https://robu.in/product/numakers-pla-filament-apricot-skin-1-75-mm-1-kg/)|
+| PWM DC motor speed controller |   1 | $0.83 |      $0.83 | [link]-(https://robu.in/product/3v-6v-12v-24v-35v-pwm-dc-motor-speed-regulator/)|
+| Glue gun                      |   1 | $2.20 |      $2.20 | [link]-(https://dl.flipkart.com/s/AjleO!uuuN)|
+| Battery and switch            |   1 | $2.21 |      $2.21 | [link] -(https://dl.flipkart.com/s/AjrSNKuuuN)|
+| Tax & shipping                |   — |     — |      $3.00 |         |
+| **TOTAL**                     |     |       | **$24.66** |         |
 
 
 
