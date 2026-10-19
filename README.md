@@ -52,6 +52,21 @@ finally the slide
 assembling
 
 <img width="767" height="522" alt="Screenshot 2026-10-19 013604" src="https://github.com/user-attachments/assets/89d9fd6f-528d-4ad4-924a-a342185f291d" />
-after assembling i know its not looking best because it is in 2d yah and still the cycle is not added you can see the movement of marbles . it will be best seeing how marbles gonna move.
+
+after assembling i know its not looking best because it is in 2d yah and still the cycle is not added you can see the movement of marbles . it will be best seeing how marbles gonna move. there is no shortcut to assemble them like vertically on onshape so it was kinda headache  so i just kept them like that
+
+#BOM WITH LINKS WORKING
+## BILL OF MATERIALS
+
+| PART                          | QTY |  UNIT |      TOTAL | SOURCE   |
+| ----------------------------- | --: | ----: | ---------: | -------- |
+| PLA filament — light blue     |   1 | $8.21 |      $8.21 |  [link]https://robu.in/product/numakers-pla-filament-light-blue-1-75-mm-1-kg/ |
+| PLA filament — apricot skin   |   1 | $8.21 |      $8.21 |  [link]https://robu.in/product/numakers-pla-filament-apricot-skin-1-75-mm-1-kg/|
+| PWM DC motor speed controller |   1 | $0.83 |      $0.83 | [link]|
+| Glue gun                      |   1 | $2.20 |      $2.20 | [link] |
+| Battery and switch            |   1 | $2.21 |      $2.21 | [link]  |
+| Tax & shipping                |   — |     — |      $3.00 | [link]        |
+| **TOTAL**                     |     |       | **$24.66** |  [link]    |
+
 
 
