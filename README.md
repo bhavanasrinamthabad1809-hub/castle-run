@@ -54,8 +54,8 @@ assembling
 
 after assembling i know its not looking best because it is in 2d yah and still the cycle is not added you can see the movement of marbles . it will be best seeing how marbles gonna move. there is no shortcut to assemble them like vertically on onshape so it was kinda headache  so i just kept them like that
 
-#BOM WITH LINKS WORKING
-## BILL OF MATERIALS
+
+## BOM
 
 | PART                          | QTY |  UNIT |      TOTAL | SOURCE   |
 | ----------------------------- | --: | ----: | ---------: | -------- |
@@ -66,6 +66,10 @@ after assembling i know its not looking best because it is in 2d yah and still t
 | Battery and switch            |   1 | $2.21 |      $2.21 | (https://dl.flipkart.com/s/AjrSNKuuuN)|
 | Tax & shipping                |   — |     — |      $3.00 |         |
 | **TOTAL**                     |     |       | **$24.66** |         |
+
+## CREDITS
+mini gear youtube channel 
+all the people who helped me on slack . 
 
 
 
