@@ -70,6 +70,9 @@ after assembling i know its not looking best because it is in 2d yah and still t
 ## 3d printing
 i need to print all the parts and assemble them after 3d printing
 
+## onshape link
+https://cad.onshape.com/documents/ccf72d413f201087a792a3ce/w/4100bf496a0be52959392eed/e/2e2c5394998ca8b04add3ed3
+
 ## CREDITS
 mini gear youtube channel 
 all the people who helped me on slack . 
