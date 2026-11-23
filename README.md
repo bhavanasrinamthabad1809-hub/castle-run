@@ -69,9 +69,6 @@ after assembling i know its not looking best because it is in 2d yah and still t
 
 
 
-## URL
-DEMO URL :- https://cad.onshape.com/documents/ccf72d413f201087a792a3ce/w/4100bf496a0be52959392eed/e/2b6cc5124fde742434102064
-
 
 ## 3d printing
 i need to print all the parts and assemble them after 3d printing
@@ -80,5 +77,6 @@ i need to print all the parts and assemble them after 3d printing
 mini gear youtube channel 
 all the people who helped me on slack . 
 
-
+## URL
+demo url in about section 
 
