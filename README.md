@@ -28,27 +28,24 @@ The goal is to make the marble keep moving automatically without having to pick 
 
 ## What I've been working on
 
-I've been designing the wheels, cylinder, panels, ramps and slides in Onshape. I'm also working on putting all the parts together in an assembly so I can see how the machine should look before building it physically. MOST DIFFICULT PART FOR ME got 3 hours from here lol.
+I've been designing the wheels, cylinder, panels, ramps and slides in Onshape. I'm also working on putting all the parts together in an assembly so I can see how the machine should look before building it physically. MOST DIFFICULT PART FOR ME got 3 hours from here 
 
 Honestly, getting everything aligned in CAD has been a learning experience, but that's part of building something new!
 
 
 ##  Project progress
 
+PANEL
 
-<img width="1920" height="1080" alt="Screenshot 2026-10-18 144014" src="https://github.com/user-attachments/assets/d178f8b5-601e-4e2e-b437-6c7fb69b62f1" />
-instead of slide started with spring lol
+<img width="792" height="602" alt="image" src="https://github.com/user-attachments/assets/7d900fd3-b450-4e4c-8eac-c3bf8cc1e397" />
 
+RAMPS
 
+<img width="990" height="562" alt="image" src="https://github.com/user-attachments/assets/9c2c1e7c-c843-4040-b0d7-2708b9bff4f4" />
 
+SLIDE
+<img width="942" height="626" alt="image" src="https://github.com/user-attachments/assets/9b0ff06c-0b8e-4105-a8a9-6809de8f0b31" />
 
-<img width="852" height="583" alt="Screenshot 2026-10-19 013711" src="https://github.com/user-attachments/assets/c587573d-1473-4c19-bf54-932d119ea274" />
-finally the slide
-
-
- 
-<img width="1920" height="1080" alt="Screenshot 2026-10-18 181000" src="https://github.com/user-attachments/assets/b3e65047-ec4e-4597-aa28-9bad4a8b26b8" />
-assembling
 
 <img width="767" height="522" alt="Screenshot 2026-10-19 013604" src="https://github.com/user-attachments/assets/89d9fd6f-528d-4ad4-924a-a342185f291d" />
 
@@ -65,16 +62,9 @@ after assembling i know its not looking best because it is in 2d yah and still t
 | Glue gun                      |   1 | $2.20 |      $2.20 | (https://dl.flipkart.com/s/AjleO!uuuN)|
 | battery and switch            |   1 | $2.21 |      $2.21 | (https://dl.flipkart.com/s/AjrSNKuuuN)|
 | marbles                     |   1 | $1.65 |      $1.65 |(https://dl.flipkart.com/s/6!6450NNNN) |
-| icecreamstick                    |   1 | $1.65 |      $1.65 |(https://dl.flipkart.com/s/6!Qof9NNNN)|
-
-
-
-
-
-| Tax & shipping                |   — |     — |      $3.00 |         |
-| **TOTAL**                     |     |       | **$24.66** |         |
-
-
+| icecreamstick                    |   1 | $1.65 |      $1.65 |(https://dl.flipkart.com/s/6!Qof9NNNN) |
+| Tax & shipping                |   — |     — |      $3.00 | 
+| **TOTAL**                     |     |       | **$24.66** |
 
 
 ## 3d printing
