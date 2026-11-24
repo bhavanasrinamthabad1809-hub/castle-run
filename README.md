@@ -56,13 +56,14 @@ after assembling i know its not looking best because it is in 2d yah and still t
 
 | Component    | Quantity | Description         | Source                       | Price |
 | ------------ | -------: | ------------------- | ---------------------------- | ----: |
-| ESP32-C3     |        1 | Microcontroller     | [link](https://robu.in/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface/) | 749  |
-| OLED Display |        1 | Small display       | [link](https://robocraze.com/products/0-96in-oled-display-module-4pin) |169 |
-| 10K Resistor |        1 | Pull-up resistor    | [link](https://robocraze.com/products/10k-resistor-pack-of-10) |13|
-| switches  |        3 | User input buttons  | [link](https://amzn.in/d/0aKbDkSN) | 359 |
-| DHT11  |        1 | environment sensor  | [link](https://robu.in/product/serial-dht11-temperature-and-humidity-sensor/) | 289 |
-| PCB          |        1 | Custom-designed PCB | [link](https://jlcpcb.com/)  | 1330|
-| MPU6050 | 1 | 6-axis motion sensor module (GY-521) | [Link](https://robocraze.com/products/mpu-6050-triple-axis-accelerometer-gyroscope-module) | 151 |
+| glue gun     |        1 | glue     | [link](https://dl.flipkart.com/s/AjleO!uuuN) | $2.20  |
+| marbles |        1 | to play the game      | [link](https://dl.flipkart.com/s/6!6450NNNN) |$1.65|
+| icecreamstick |        1 |  to run the game  | [link](https://dl.flipkart.com/s/6!Qof9NNNN) |$0.65 |
+| dc motor  |        3 | movement  | [link](https://dl.flipkart.com/dl/palbuzz-pb-bo-1-electronic-components-hobby-kit/p/itmc86df85d2b79f?pid=EHKHQGBU2HAAEHTP&lid=LSTEHKHQGBU2HAAEHTPGGDYLX&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ==&ctx=eyJkZWxpdmVyZWRCeSI6IiIsImRpc3BsYXlQcmljZSI6Ijg0In0=&_refId=&_appId=CL) | $0.90 |
+| screws  |        1 | t0 make cycle  | [link](https://dl.flipkart.com/dl/hydur-carbon-steel-flat-head-chipboard-screw/p/itm9dddb6ea7c116?pid=SCWGB3WQWTXZ28HD&lid=LSTSCWGB3WQWTXZ28HDC99WXI&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoiZmFjdEJhc2VkUmVjb21tZW5kYXRpb24vcmVjZW50bHlWaWV3ZWQifQ==&ctx=eyJkZWxpdmVyZWRCeSI6IiIsImRpc3BsYXlQcmljZSI6IjE0MSJ9&_refId=&_appId=CL) | $1.52 |
+| cad     |        1 | printing | [link](https://printlegion.hackclub.com/printers)  | $22.50 |
+| pmw motor| 1 | 6-axis motion sensor module (GY-521) | [Link](https://robu.in/product/3v-6v-12v-24v-35v-pwm-dc-motor-speed-regulator/) | $0.85 | 
+|tax and shipping | -| -| $3.40
 
 
 
