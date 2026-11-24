@@ -52,19 +52,18 @@ SLIDE
 after assembling i know its not looking best because it is in 2d yah and still the cycle is not added you can see the movement of marbles . it will be best seeing how marbles gonna move.
 
 
-## BOM
+## Bill of Materials
 
-| PART                          | QTY |  UNIT |      TOTAL | SOURCE   |
-| ----------------------------- | --: | ----: | ---------: | -------- |
-| PLA filament — light blue     |   1 | $8.21 |      $8.21 | (https://robu.in/product/numakers-pla-filament-light-blue-1-75-mm-1-kg/) |
-| PLA filament — apricot skin   |   1 | $8.21 |      $8.21 |  (https://robu.in/product/numakers-pla-filament-apricot-skin-1-75-mm-1-kg/)|
-| PWM DC motor speed controller |   1 | $0.83 |      $0.83 |(https://robu.in/product/3v-6v-12v-24v-35v-pwm-dc-motor-speed-regulator/)|
-| Glue gun                      |   1 | $2.20 |      $2.20 | (https://dl.flipkart.com/s/AjleO!uuuN)|
-| battery and switch            |   1 | $2.21 |      $2.21 | (https://dl.flipkart.com/s/AjrSNKuuuN)|
-| marbles                     |   1 | $1.65 |      $1.65 |(https://dl.flipkart.com/s/6!6450NNNN) |
-| icecreamstick                    |   1 | $1.65 |      $1.65 |(https://dl.flipkart.com/s/6!Qof9NNNN) |
-| Tax & shipping                |   — |     — |      $3.00 | 
-| **TOTAL**                     |     |       | **$24.66** |
+| Component    | Quantity | Description         | Source                       | Price |
+| ------------ | -------: | ------------------- | ---------------------------- | ----: |
+| ESP32-C3     |        1 | Microcontroller     | [link](https://robu.in/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface/) | 749  |
+| OLED Display |        1 | Small display       | [link](https://robocraze.com/products/0-96in-oled-display-module-4pin) |169 |
+| 10K Resistor |        1 | Pull-up resistor    | [link](https://robocraze.com/products/10k-resistor-pack-of-10) |13|
+| switches  |        3 | User input buttons  | [link](https://amzn.in/d/0aKbDkSN) | 359 |
+| DHT11  |        1 | environment sensor  | [link](https://robu.in/product/serial-dht11-temperature-and-humidity-sensor/) | 289 |
+| PCB          |        1 | Custom-designed PCB | [link](https://jlcpcb.com/)  | 1330|
+| MPU6050 | 1 | 6-axis motion sensor module (GY-521) | [Link](https://robocraze.com/products/mpu-6050-triple-axis-accelerometer-gyroscope-module) | 151 |
+
 
 
 ## 3d printing
@@ -76,4 +75,3 @@ all the people who helped me on slack .
 
 ## URL
 demo url in about section 
-
