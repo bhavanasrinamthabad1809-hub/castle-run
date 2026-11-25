@@ -60,10 +60,11 @@ after assembling i know its not looking best because it is in 2d yah and still t
 | marbles |        1 | to play the game      | [link](https://dl.flipkart.com/s/6!6450NNNN) |$1.65|
 | icecreamstick |        1 |  to run the game  | [link](https://dl.flipkart.com/s/6!Qof9NNNN) |$0.65 |
 | dc motor  |        3 | movement  | [link](https://dl.flipkart.com/dl/palbuzz-pb-bo-1-electronic-components-hobby-kit/p/itmc86df85d2b79f?pid=EHKHQGBU2HAAEHTP&lid=LSTEHKHQGBU2HAAEHTPGGDYLX&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ==&ctx=eyJkZWxpdmVyZWRCeSI6IiIsImRpc3BsYXlQcmljZSI6Ijg0In0=&_refId=&_appId=CL) | $0.90 |
-| screws  |        1 | t0 make cycle  | [link](https://dl.flipkart.com/dl/hydur-carbon-steel-flat-head-chipboard-screw/p/itm9dddb6ea7c116?pid=SCWGB3WQWTXZ28HD&lid=LSTSCWGB3WQWTXZ28HDC99WXI&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoiZmFjdEJhc2VkUmVjb21tZW5kYXRpb24vcmVjZW50bHlWaWV3ZWQifQ==&ctx=eyJkZWxpdmVyZWRCeSI6IiIsImRpc3BsYXlQcmljZSI6IjE0MSJ9&_refId=&_appId=CL) | $1.52 |
+| screws  |        1 | to make cycle  | [link](https://dl.flipkart.com/dl/hydur-carbon-steel-flat-head-chipboard-screw/p/itm9dddb6ea7c116?pid=SCWGB3WQWTXZ28HD&lid=LSTSCWGB3WQWTXZ28HDC99WXI&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoiZmFjdEJhc2VkUmVjb21tZW5kYXRpb24vcmVjZW50bHlWaWV3ZWQifQ==&ctx=eyJkZWxpdmVyZWRCeSI6IiIsImRpc3BsYXlQcmljZSI6IjE0MSJ9&_refId=&_appId=CL) | $1.52 |
 | cad     |        1 | printing | [link](https://printlegion.hackclub.com/printers)  | $22.50 |
-| pmw motor| 1 | 6-axis motion sensor module (GY-521) | [Link](https://robu.in/product/3v-6v-12v-24v-35v-pwm-dc-motor-speed-regulator/) | $0.85 | 
-|tax and shipping | -| -| $3.40
+| pmw motor| 1 | to control the speed | [Link](https://dl.flipkart.com/dl/powerlyt-pwm-dc-motor-speed-controller-module-4-5v-34v-5a-adjustable-regulator-electronic-components-hobby-kit/p/itmcbfa9e2b96fcc?pid=EHKHNU5PGYGUSGFZ&lid=LSTEHKHNU5PGYGUSGFZGNXADY&marketplace=FLIPKART&q=pmw+dc+motor+regulator&store=tng/t4r&srno=s_1_2&otracker=search&otracker1=search&fm=organic&iid=b89fb4a5-8511-4b4f-bc72-4e9f15075b4c.EHKHNU5PGYGUSGFZ.SEARCH&ppt=None&ppn=None&ssid=eokiymb3eo0000001795579444945&qH=c244ee4c0dc05207&ov_redirect=true&ov_redirect=true&_refId=&_appId=CL) | $1.51 | 
+|tax and shipping | -| -| $3.40 |
+| total cost |- | - | $34.93 |
 
 
 
