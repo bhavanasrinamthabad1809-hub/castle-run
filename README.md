@@ -76,4 +76,4 @@ mini gear youtube channel
 all the people who helped me on slack . 
 
 ## editable source
-demo url in about section 
+https://cad.onshape.com/documents/ccf72d413f201087a792a3ce/w/4100bf496a0be52959392eed/e/acba38cc7b40f631e1ea6f09
