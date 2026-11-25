@@ -1,7 +1,7 @@
 ## Marble Run Game
 I'm building a marble run machine for my Half Life project!
 
-The idea is simple: a marble keeps moving through different ramps and slides, and instead of manually moving it back to the starting point, a motor-powered wheel takes it back up so it can run again. Basically, an automatic marble run game! 🎱
+The idea is simple: a marble keeps moving through different ramps and slides, and instead of manually moving it back to the starting point, a motor-powered wheel takes it back up so it can run again. Basically, an automatic marble run game! 
 
 ##  How does it work?
 
@@ -44,18 +44,19 @@ RAMPS
 <img width="990" height="562" alt="image" src="https://github.com/user-attachments/assets/9c2c1e7c-c843-4040-b0d7-2708b9bff4f4" />
 
 SLIDE
-<img width="942" height="626" alt="image" src="https://github.com/user-attachments/assets/9b0ff06c-0b8e-4105-a8a9-6809de8f0b31" />
+
+<img width="588" height="637" alt="image" src="https://github.com/user-attachments/assets/1387b542-d523-4b86-a340-edd1ae03ee45" />
+
 
 ASSEMBLE
 
 front view 
-<img width="1092" height="587" alt="image" src="https://github.com/user-attachments/assets/61a85c1c-73f8-4fae-b21a-4a5fdf1404cf" />
+<img width="917" height="495" alt="image" src="https://github.com/user-attachments/assets/934f1113-de6a-4894-8150-481e83997751" />
+
 
 
 isometric  view
-<img width="952" height="605" alt="image" src="https://github.com/user-attachments/assets/ce3f8fbe-f09a-431f-b863-ae64ab71ce8e" />
-
-
+<img width="907" height="611" alt="image" src="https://github.com/user-attachments/assets/4f2d1cc1-679f-41be-96f9-3435159b1c07" />
 
 
 
