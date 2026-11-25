@@ -49,7 +49,20 @@ SLIDE
 
 <img width="767" height="522" alt="Screenshot 2026-10-19 013604" src="https://github.com/user-attachments/assets/89d9fd6f-528d-4ad4-924a-a342185f291d" />
 
-after assembling i know its not looking best because it is in 2d yah and still the cycle is not added you can see the movement of marbles . it will be best seeing how marbles gonna move.
+assemble
+
+
+## editable source
+[link]_(https://cad.onshape.com/documents/ccf72d413f201087a792a3ce/w/4100bf496a0be52959392eed/e/acba38cc7b40f631e1ea6f09)
+
+
+## 3d printing
+i need to print all the parts and assemble them after 3d printing
+
+## CREDITS
+mini gear youtube channel 
+all the people who helped me on slack . 
+
 
 
 ## Bill of Materials
@@ -66,14 +79,3 @@ after assembling i know its not looking best because it is in 2d yah and still t
 |tax and shipping | -| -| $3.40 |
 | total cost |- | - | $34.93 |
 
-
-
-## 3d printing
-i need to print all the parts and assemble them after 3d printing
-
-## CREDITS
-mini gear youtube channel 
-all the people who helped me on slack . 
-
-## editable source
-https://cad.onshape.com/documents/ccf72d413f201087a792a3ce/w/4100bf496a0be52959392eed/e/acba38cc7b40f631e1ea6f09
