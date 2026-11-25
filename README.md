@@ -46,11 +46,21 @@ RAMPS
 SLIDE
 <img width="942" height="626" alt="image" src="https://github.com/user-attachments/assets/9b0ff06c-0b8e-4105-a8a9-6809de8f0b31" />
 
+ASSEMBLE
 
-<img width="767" height="522" alt="Screenshot 2026-10-19 013604" src="https://github.com/user-attachments/assets/89d9fd6f-528d-4ad4-924a-a342185f291d" />
+front view 
+<img width="1397" height="738" alt="image" src="https://github.com/user-attachments/assets/5bdc74dc-c6d1-4ee9-be06-5036d5d16f94" />
 
-assemble
+isometric  view
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35303734-6b1e-40d0-a995-5f6843ecee8b" />
 
+
+## assembly guide 
+since i made 4 different part studio
+
+then to assembly
+and inserted all the part studios together to the assembly and placed them in the places i wanted to 
+first back panel and sidewalls since back panel is the main one fix the position of it and then carry on with placing all the parts where ever i wanted to.
 
 ## editable source
  | [link](https://cad.onshape.com/documents/ccf72d413f201087a792a3ce/w/4100bf496a0be52959392eed/e/acba38cc7b40f631e1ea6f09) |
