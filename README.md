@@ -75,5 +75,5 @@ i need to print all the parts and assemble them after 3d printing
 mini gear youtube channel 
 all the people who helped me on slack . 
 
-## URL
+## editable source
 demo url in about section 
