@@ -49,10 +49,14 @@ SLIDE
 ASSEMBLE
 
 front view 
-<img width="1397" height="738" alt="image" src="https://github.com/user-attachments/assets/5bdc74dc-c6d1-4ee9-be06-5036d5d16f94" />
+<img width="1092" height="587" alt="image" src="https://github.com/user-attachments/assets/61a85c1c-73f8-4fae-b21a-4a5fdf1404cf" />
+
 
 isometric  view
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35303734-6b1e-40d0-a995-5f6843ecee8b" />
+<img width="952" height="605" alt="image" src="https://github.com/user-attachments/assets/ce3f8fbe-f09a-431f-b863-ae64ab71ce8e" />
+
+
+
 
 
 ## assembly guide 
