@@ -173,7 +173,11 @@ then i gave flies now the cost of the print is  $22.05 i thought it would like 1
 
 i need to know  how the cost which filament he gonna use pla cause i think its the cheap option here 
 
-then update the bom and bom.csv then i am gonna ship this project yahh
+then update the bom and bom.csv then 
+
+updated added the assembly file as well i think i can ship  this this now 
+
+sry i did not took any images i used lapse , i forgot to take screenshots
 
 [Timelapse](https://lookout.hackclub.com/api/media/5841475c-1c20-479e-9444-de548a0b4a5a/video.mp4)
 
