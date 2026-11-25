@@ -78,6 +78,6 @@ all the people who helped me on slack .
 | cad     |        1 | printing | [link](https://printlegion.hackclub.com/printers)  | $22.50 |
 | pmw motor| 1 | to control the speed | [Link](https://dl.flipkart.com/dl/powerlyt-pwm-dc-motor-speed-controller-module-4-5v-34v-5a-adjustable-regulator-electronic-components-hobby-kit/p/itmcbfa9e2b96fcc?pid=EHKHNU5PGYGUSGFZ&lid=LSTEHKHNU5PGYGUSGFZGNXADY&marketplace=FLIPKART&q=pmw+dc+motor+regulator&store=tng/t4r&srno=s_1_2&otracker=search&otracker1=search&fm=organic&iid=b89fb4a5-8511-4b4f-bc72-4e9f15075b4c.EHKHNU5PGYGUSGFZ.SEARCH&ppt=None&ppn=None&ssid=eokiymb3eo0000001795579444945&qH=c244ee4c0dc05207&ov_redirect=true&ov_redirect=true&_refId=&_appId=CL) | $1.51 | 
 | battery    |        1 | to run the motor | [link](https://dl.flipkart.com/s/xfvcQGNNNN)  | $1.90 |
-|tax and shipping | -| -| $3.40 |
+|tax and shipping | -| -| $3.24|
 | total cost |- | - | $36.07 |
 
